@@ -1,2 +1,0 @@
-# crossfit-documentation
- crossfit-documentation
